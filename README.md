@@ -40,7 +40,7 @@ coffee_machine()   # Main program loop
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/coffee-machine.git
+git clone https://github.com/echoesofnil/coffee-machine.git
 ```
 
 2. Navigate to the project folder:
